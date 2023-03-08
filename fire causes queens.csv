@@ -1,0 +1,949 @@
+Case_Year,Incident_DateTime,Borough,Battalion,Community_District,GeoID,Incident_Classification,Cause_Fire_Description,Fire_Code_Category
+2020,7/20/2020,Queens,47,14,400,Commercial Structure,Incendiary - Ignitable Liquid,Incendiary
+2020,8/4/2020,Queens,49,1,414,Commercial Structure,SIU Investigation,Other
+2020,1/1/2020,Queens,54,12,413,Vehicle,Preliminary Investigation Only,Other
+2020,1/1/2020,Queens,47,14,400,PD Residential Structure,Candle,Open Flame
+2020,1/1/2020,Queens,46,3,415,Commercial Structure,Electrical Wiring,Electrical
+2020,1/1/2020,Queens,46,3,415,MD Residential Structure,Incendiary,Incendiary
+2020,1/2/2020,Queens,46,4,410,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,1/2/2020,Queens,46,4,410,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,1/2/2020,Queens,46,4,410,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,1/2/2020,Queens,45,1,414,Vehicle,Smoking (Cigarette/Cigar),Smoking
+2020,1/2/2020,Queens,,13,405,Vehicle,Vehicle Wiring,Electrical
+2020,1/2/2020,Queens,45,2,408,Transit,Other - Electrical,Electrical
+2020,1/3/2020,Queens,52,7,409,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,1/3/2020,Queens,,1,414,MD Residential Structure,Stove/Cooking - Stove,Cooking Carelessness
+2020,1/3/2020,Queens,52,7,409,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,1/5/2020,Queens,47,Out of NYC,400,MFA,Other - No Fire,No Fire
+2020,1/5/2020,Queens,39,9,402,PD Residential Structure,Electrical Wiring,Electrical
+2020,1/5/2020,Queens,50,6,412,MD Residential Structure,Preliminary Investigation Only,Other
+2020,1/5/2020,Queens,50,10,406,MD Residential Structure,Stove/Cooking - Stove,Cooking Carelessness
+2020,1/6/2020,Queens,49,1,414,MD Residential Structure,Motors - Fan,Motors
+2020,1/6/2020,Queens,54,12,413,PD Residential Structure,Electrical Wiring,Electrical
+2020,1/6/2020,Queens,50,8,403,MD Residential Structure,Incendiary,Incendiary
+2020,1/7/2020,Queens,50,12,403,MD Residential Structure,Incendiary,Incendiary
+2020,1/7/2020,Queens,47,14,400,PD Residential Structure,Albany Burn Notif. Related to a Previous BFI Inv.,Other
+2020,1/7/2020,Queens,47,14,400,PD Residential Structure,Matches/Lighter,Open Flame
+2020,1/7/2020,Queens,51,10,406,PD Residential Structure,Incense,Hot Objects
+2020,1/8/2020,Queens,49,3,415,Commercial Structure,Incendiary,Incendiary
+2020,1/8/2020,Queens,51,9,402,MD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,1/8/2020,Queens,47,14,400,School,Coffee Pot,Appliances
+2020,1/9/2020,Queens,54,12,413,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,1/9/2020,Queens,46,6,412,MD Residential Structure,Motors - Electric,Motors
+2020,1/9/2020,Queens,45,2,408,Commercial Structure,Incendiary - Torch - Illegal Use of,Incendiary
+2020,1/9/2020,Queens,46,3,415,Commercial Structure,Heat or Sparks from Friction,Hot Objects
+2020,1/9/2020,Queens,,1,414,MD Residential Structure,Incendiary,Incendiary
+2020,1/10/2020,Queens,51,9,402,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,1/10/2020,Queens,49,3,415,Outside Rubbish,Incendiary,Incendiary
+2020,1/10/2020,Queens,46,3,415,PD Residential Structure,Electrical Wiring,Electrical
+2020,1/10/2020,Queens,46,4,410,No Fire,SIU Investigation,Other
+2020,1/10/2020,Queens,51,9,402,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,1/10/2020,Queens,46,6,412,MD Residential Structure,Electrical Wiring,Electrical
+2020,1/10/2020,Queens,50,8,407,MD Residential Structure,Spontaneous Combustion,Natural Sources
+2020,1/10/2020,Queens,50,12,403,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,1/10/2020,Queens,50,8,407,Commercial Structure,Electrical Wiring,Electrical
+2020,1/10/2020,Queens,52,7,409,Government Structure,Other - Electrical,Electrical
+2020,1/11/2020,Queens,54,12,413,Vehicle,Motors - Fossil Fuel Powered,Motors
+2020,1/11/2020,Queens,51,10,406,PD Residential Structure,Hard Wire Outlet,Electrical
+2020,1/11/2020,Queens,51,5,404,MD Residential Structure,Barbecue - Wood/Charcoal,Cooking Carelessness
+2020,1/12/2020,Queens,9,12,413,Vehicle,Ignitable Liquid-Polyurethane/Varnish/PaintThinner,Ignitable
+2020,1/12/2020,Queens,50,12,403,MD Residential Structure,Electrical Wiring,Electrical
+2020,1/13/2020,Queens,47,14,400,Vehicle,Incendiary,Incendiary
+2020,1/13/2020,Queens,,9,402,MD Residential Structure,Torch - Legal Use of,Open Flame
+2020,1/13/2020,Queens,54,10,406,PD Residential Structure,Torch - Legal Use of,Open Flame
+2020,1/13/2020,Queens,49,3,415,MD Residential Structure,Incendiary,Incendiary
+2020,1/13/2020,Queens,,14,401,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,1/14/2020,Queens,49,2,408,MFA,MFA,No Fire
+2020,1/14/2020,Queens,,10,406,Vehicle,Preliminary Investigation Only,Other
+2020,1/14/2020,Queens,51,9,402,PD Residential Structure,Fuse/Circuit Breaker Panel,Electrical
+2020,1/15/2020,Queens,46,4,410,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,1/15/2020,Queens,46,5,404,Garage/Shed,Extension Cord,Electrical
+2020,1/15/2020,Queens,47,14,401,MD Residential Structure,Candle,Open Flame
+2020,1/15/2020,Queens,52,7,409,MD Residential Structure,Coffee Pot,Appliances
+2020,1/15/2020,Queens,50,12,403,Garage/Shed,Incendiary,Incendiary
+2020,1/16/2020,Queens,51,10,406,PD Residential Structure,Incense,Hot Objects
+2020,1/16/2020,Queens,51,12,413,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,1/17/2020,Queens,47,14,400,PD Residential Structure,Electrical Wiring,Electrical
+2020,1/17/2020,Queens,,6,412,MD Residential Structure,Electrical Wiring,Electrical
+2020,1/17/2020,Queens,,12,413,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,1/17/2020,Queens,49,1,414,Miscellaneous,Electrical Wiring,Electrical
+2020,1/17/2020,Queens,45,1,414,MD Residential Structure,Heat or Sparks from Friction,Hot Objects
+2020,1/17/2020,Queens,35,1,301,MD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,1/17/2020,Queens,52,7,409,MD Residential Structure,Stove/Cooking - Electric,Cooking Carelessness
+2020,1/17/2020,Queens,46,4,410,MD Residential Structure,Other Appliance,Appliances
+2020,1/17/2020,Queens,46,3,415,MD Residential Structure,Incendiary,Incendiary
+2020,1/17/2020,Queens,54,12,413,Hotel,Heat from Light Bulb,Hot Objects
+2020,1/18/2020,Queens,54,12,403,PD Residential Structure,Electrical Wiring,Electrical
+2020,1/18/2020,Queens,47,14,400,PD Residential Structure,Electrical Wiring,Electrical
+2020,1/19/2020,Queens,,13,405,Garage/Shed,Incendiary,Incendiary
+2020,1/19/2020,Queens,,5,404,MD Residential Structure,Permanent Heater - Oil,Heaters
+2020,1/19/2020,Queens,49,3,415,MD Residential Structure,Other - Electrical,Electrical
+2020,1/20/2020,Queens,54,13,405,PD Residential Structure,Incendiary - Ignitable Liquid,Incendiary
+2020,1/20/2020,Queens,54,13,405,PD Residential Structure,Electrical Wiring,Electrical
+2020,1/20/2020,Queens,51,10,406,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,1/20/2020,Queens,50,8,407,PD Residential Structure,Chimney/Flues,Hot Objects
+2020,1/21/2020,Queens,,4,410,MD Residential Structure,Electrical Wiring,Electrical
+2020,1/21/2020,Queens,,12,413,PD Residential Structure,Electrical Wiring,Electrical
+2020,1/22/2020,Queens,51,10,406,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,1/22/2020,Queens,,Out of NYC,413,Vehicle,Vehicle Wiring,Electrical
+2020,1/22/2020,Queens,51,9,402,MD Residential Structure,Candle,Open Flame
+2020,1/22/2020,Queens,52,7,409,Garage/Shed,Electrical Wiring,Electrical
+2020,1/22/2020,Queens,50,12,403,No Fire,Return on F. P. Warrant,No Fire
+2020,1/22/2020,Queens,52,7,409,Commercial Structure,Stove - Wood,Appliances
+2020,1/23/2020,Queens,45,2,408,MFA,Other - No Fire,No Fire
+2020,1/23/2020,Queens,52,7,409,Vehicle,Vehicle Wiring,Electrical
+2020,1/23/2020,Queens,51,9,402,PD Residential Structure,Stove/Cooking - Other,Cooking Carelessness
+2020,1/23/2020,Queens,49,1,414,MD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,1/24/2020,Queens,,1,414,PD Residential Structure,Torch - Legal Use of,Open Flame
+2020,1/25/2020,Queens,50,10,406,PD Residential Structure,Candle,Open Flame
+2020,1/25/2020,Queens,52,7,409,MD Residential Structure,Incendiary,Incendiary
+2020,1/26/2020,Queens,46,4,410,MD Residential Structure,Incendiary,Incendiary
+2020,1/26/2020,Queens,49,1,414,Government Structure,Incendiary,Incendiary
+2020,1/26/2020,Queens,,1,414,PD Residential Structure,Clothes Dryer,Appliances
+2020,1/26/2020,Queens,53,11,411,Commercial Structure,Other,Other
+2020,1/26/2020,Queens,53,11,411,PD Residential Structure,Preliminary Investigation Only,Other
+2020,1/26/2020,Queens,52,7,409,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,1/27/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,1/27/2020,Queens,45,5,404,Commercial Structure,Other - Open Flame,Open Flame
+2020,1/27/2020,Queens,51,5,404,PD Residential Structure,Electrical Wiring,Electrical
+2020,1/27/2020,Queens,53,13,405,PD Residential Structure,Torch - Legal Use of,Open Flame
+2020,1/27/2020,Queens,53,13,405,PD Residential Structure,Electrical Wiring,Electrical
+2020,1/27/2020,Queens,50,12,403,Group Home,Chimney/Flues,Hot Objects
+2020,1/27/2020,Queens,53,13,405,PD Residential Structure,Electrical Wiring,Electrical
+2020,1/28/2020,Queens,,12,413,Vehicle,Electrical Wiring,Electrical
+2020,1/28/2020,Queens,,1,414,MD Residential Structure,Other - Open Flame,Open Flame
+2020,1/28/2020,Queens,,12,403,MD Residential Structure,Incendiary - Ignitable Liquid,Incendiary
+2020,1/28/2020,Queens,,12,403,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,1/29/2020,Queens,46,6,412,PD Residential Structure,Electrical Wiring,Electrical
+2020,1/29/2020,Queens,45,2,408,Commercial Structure,Chimney/Flues,Hot Objects
+2020,1/29/2020,Queens,52,7,409,PD Residential Structure,Incendiary,Incendiary
+2020,1/30/2020,Queens,46,4,410,MD Residential Structure,Incendiary,Incendiary
+2020,1/30/2020,Queens,47,14,401,PD Residential Structure,Preliminary Investigation Only,Other
+2020,1/31/2020,Queens,50,8,407,Commercial Structure,Smoking (Cigarette/Cigar),Smoking
+2020,1/31/2020,Queens,,7,409,PD Residential Structure,Power Strip,Electrical
+2020,1/31/2020,Queens,50,8,407,Outside Rubbish,Incendiary,Incendiary
+2020,1/31/2020,Queens,49,3,410,Vehicle,Heat or Sparks from Friction,Hot Objects
+2020,2/1/2020,Queens,,8,407,MD Residential Structure,Incendiary,Incendiary
+2020,2/1/2020,Queens,54,12,413,PD Residential Structure,Incendiary,Incendiary
+2020,2/2/2020,Queens,51,10,406,Vehicle,Incendiary,Incendiary
+2020,2/2/2020,Queens,46,5,404,MD Residential Structure,Incendiary,Incendiary
+2020,2/3/2020,Queens,52,7,409,MD Residential Structure,Incendiary,Incendiary
+2020,2/3/2020,Queens,46,5,404,PD Residential Structure,Preliminary Investigation Only,Other
+2020,2/3/2020,Queens,54,12,413,Commercial Structure,Motors - Electric,Motors
+2020,2/3/2020,Queens,46,4,410,Outside Rubbish,Smoking (Cigarette/Cigar),Smoking
+2020,2/3/2020,Queens,50,12,403,Vehicle,Preliminary Investigation Only,Other
+2020,2/3/2020,Queens,,10,406,Vehicle,Incendiary - Attempted Arson,Incendiary
+2020,2/3/2020,Queens,50,12,413,PD Residential Structure,Preliminary Investigation Only,Other
+2020,2/4/2020,Queens,45,2,408,PD Residential Structure,Power Strip,Electrical
+2020,2/4/2020,Queens,52,8,407,MD Residential Structure,Candle,Open Flame
+2020,2/5/2020,Queens,50,9,402,PD Residential Structure,Heat or Sparks from Friction,Hot Objects
+2020,2/6/2020,Queens,47,14,401,PD Residential Structure,Electrical Wiring,Electrical
+2020,2/7/2020,Queens,,2,408,Garage/Shed,Other - Electrical,Electrical
+2020,2/7/2020,Queens,46,4,410,PD Residential Structure,Incendiary,Incendiary
+2020,2/7/2020,Queens,47,14,400,PD Residential Structure,Preliminary Investigation Only,Other
+2020,2/7/2020,Queens,54,12,403,PD Residential Structure,Preliminary Investigation Only,Other
+2020,2/7/2020,Queens,46,5,404,Vehicle,Other,Other
+2020,2/7/2020,Queens,54,12,403,MD Residential Structure,Extension Cord,Electrical
+2020,2/8/2020,Queens,,13,405,PD Residential Structure,Stove/Cooking - Toaster Oven,Cooking Carelessness
+2020,2/8/2020,Queens,54,13,405,PD Residential Structure,Candle,Open Flame
+2020,2/9/2020,Queens,50,12,413,Garage/Shed,Incendiary,Incendiary
+2020,2/9/2020,Queens,28,5,404,Commercial Structure,Electrical Wiring,Electrical
+2020,2/9/2020,Queens,46,3,415,MD Residential Structure,Electrical Wiring,Electrical
+2020,2/10/2020,Queens,47,14,400,MD Residential Structure,Other - Hot Objects,Hot Objects
+2020,2/10/2020,Queens,51,10,406,Other,Other - No Fire,No Fire
+2020,2/10/2020,Queens,51,10,406,No Fire,Other - No Fire,No Fire
+2020,2/10/2020,Queens,50,12,403,MD Residential Structure,Stove/Cooking - Stove,Cooking Carelessness
+2020,2/10/2020,Queens,45,2,408,MD Residential Structure,Other - Electrical,Electrical
+2020,2/11/2020,Queens,49,1,414,MD Residential Structure,Computer Component(s),Electrical Devices
+2020,2/11/2020,Queens,47,14,400,PD Residential Structure,Chimney/Flues,Hot Objects
+2020,2/12/2020,Queens,53,11,411,PD Residential Structure,Exothermic Chemical Reaction,Other
+2020,2/12/2020,Queens,46,4,410,PD Residential Structure,Incendiary,Incendiary
+2020,3/17/2020,Queens,52,7,409,Other,Incendiary,Incendiary
+2020,2/12/2020,Queens,46,4,410,Commercial Structure,Rangehood Fire - Ductwork,Cooking Carelessness
+2020,2/13/2020,Queens,54,12,413,Commercial Structure,Hard Wire Outlet,Electrical
+2020,2/13/2020,Queens,,8,407,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,2/14/2020,Queens,46,3,415,MFA,MFA,No Fire
+2020,2/15/2020,Queens,50,12,403,Religious Structure,Holiday Lighting,Electrical
+2020,2/15/2020,Queens,45,5,404,Commercial Structure,Permanent Heater - Electric,Heaters
+2020,2/16/2020,Queens,49,1,414,Government Structure,Incendiary - Combustible Material,Incendiary
+2020,2/16/2020,Queens,,2,408,MFA,MFA,No Fire
+2020,2/16/2020,Queens,,2,408,MFA,MFA,No Fire
+2020,2/16/2020,Queens,47,14,400,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,2/16/2020,Queens,47,14,400,PD Residential Structure,Incendiary,Incendiary
+2020,2/16/2020,Queens,54,12,403,MD Residential Structure,Fuse/Circuit Breaker Panel,Electrical
+2020,2/17/2020,Queens,,5,404,Transit,Incendiary,Incendiary
+2020,2/17/2020,Queens,51,9,402,Vehicle,Other - No Fire,No Fire
+2020,2/17/2020,Queens,,12,413,PD Residential Structure,Electrical Wiring,Electrical
+2020,2/17/2020,Queens,54,13,405,PD Residential Structure,Other - No Fire,No Fire
+2020,2/17/2020,Queens,47,14,400,PD Residential Structure,Electrical Wiring,Electrical
+2020,2/17/2020,Queens,46,2,408,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,2/18/2020,Queens,CD,12,413,Vehicle,Incendiary,Incendiary
+2020,2/18/2020,Queens,46,4,410,MFA,MFA,No Fire
+2020,2/18/2020,Queens,,4,410,MD Residential Structure,Other - No Fire,No Fire
+2020,2/18/2020,Queens,,13,405,PD Residential Structure,Electrical Wiring,Electrical
+2020,2/18/2020,Queens,46,4,410,Outside Rubbish,Incendiary,Incendiary
+2020,2/19/2020,Queens,46,4,410,MD Residential Structure,Portable Heater - Electric,Heaters
+2020,2/19/2020,Queens,54,13,405,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,2/19/2020,Queens,54,13,405,PD Residential Structure,Preliminary Investigation Only,Other
+2020,2/19/2020,Queens,50,8,407,PD Residential Structure,Portable Heater,Heaters
+2020,2/19/2020,Queens,53,11,411,PD Residential Structure,Preliminary Investigation Only,Other
+2020,2/20/2020,Queens,52,7,409,Commercial Structure,Stove/Cooking - Other,Cooking Carelessness
+2020,2/21/2020,Queens,53,11,411,PD Residential Structure,Electrical Wiring,Electrical
+2020,2/22/2020,Queens,50,12,403,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,2/22/2020,Queens,50,12,413,PD Residential Structure,Electrical Wiring,Electrical
+2020,2/22/2020,Queens,50,12,413,MD Residential Structure,Clothes Dryer - Natural Gas,Appliances
+2020,2/23/2020,Queens,49,1,414,MD Residential Structure,Incendiary,Incendiary
+2020,2/23/2020,Queens,52,7,409,Outside Rubbish,Smoking (Cigarette/Cigar),Smoking
+2020,2/23/2020,Queens,54,12,413,PD Residential Structure,Preliminary Investigation Only,Other
+2020,2/23/2020,Queens,,9,402,PD Residential Structure,Electrical Wiring,Electrical
+2020,2/23/2020,Queens,50,12,403,MD Residential Structure,Other - Hot Objects,Hot Objects
+2020,2/24/2020,Queens,,12,403,Commercial Structure,Incendiary,Incendiary
+2020,2/24/2020,Queens,54,12,403,Vehicle,Preliminary Investigation Only,Other
+2020,2/24/2020,Queens,51,9,402,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,2/24/2020,Queens,50,12,403,Outside Rubbish,Smoking (Cigarette/Cigar),Smoking
+2020,2/25/2020,Queens,46,3,415,MD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,2/26/2020,Queens,50,12,403,Commercial Structure,Cooking Fire Extending to Clothing or Combustibles,Cooking Carelessness
+2020,2/26/2020,Queens,49,1,414,MD Residential Structure,Matches/Lighter,Open Flame
+2020,2/26/2020,Queens,46,4,410,No Fire,SIU Investigation,Other
+2020,2/26/2020,Queens,54,Out of NYC,413,PD Residential Structure,Electrical Wiring,Electrical
+2020,2/27/2020,Queens,54,13,405,PD Residential Structure,Stove/Cooking - Other,Cooking Carelessness
+2020,2/27/2020,Queens,45,2,408,School,Ignitable Liquids/Gases - Fuel Oil,Ignitable
+2020,2/27/2020,Queens,46,3,415,MFA,Other - No Fire,No Fire
+2020,2/27/2020,Queens,50,12,403,MFA,MFA,No Fire
+2020,2/27/2020,Queens,50,12,413,PD Residential Structure,Preliminary Investigation Only,Other
+2020,2/28/2020,Queens,46,6,412,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,2/28/2020,Queens,49,2,408,Outside Rubbish,Smoking (Cigarette/Cigar),Smoking
+2020,2/29/2020,Queens,53,11,411,PD Residential Structure,Fireplace,Open Flame
+2020,2/29/2020,Queens,50,8,407,PD Residential Structure,Electrical Wiring,Electrical
+2020,2/29/2020,Queens,,9,402,Outside Rubbish,Smoking (Cigarette/Cigar),Smoking
+2020,2/29/2020,Queens,51,10,406,Brush,Incendiary - Reckless Use of Open Flame,Incendiary
+2020,2/29/2020,Queens,50,12,413,PD Residential Structure,Electrical Wiring,Electrical
+2020,3/1/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,3/2/2020,Queens,46,4,410,Commercial Structure,Preliminary Investigation Only,Other
+2020,3/2/2020,Queens,47,14,400,Vehicle,Electrical Wiring,Electrical
+2020,3/2/2020,Queens,45,2,408,PD Residential Structure,Extension Cord,Electrical
+2020,3/2/2020,Queens,50,8,407,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,3/2/2020,Queens,53,11,411,PD Residential Structure,Spontaneous Combustion,Natural Sources
+2020,3/3/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,3/3/2020,Queens,39,9,402,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,3/3/2020,Queens,54,12,413,MD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,3/3/2020,Queens,45,2,408,MFA,Other - No Fire,No Fire
+2020,3/3/2020,Queens,46,4,410,MD Residential Structure,Clothes Dryer - Natural Gas,Appliances
+2020,3/4/2020,Queens,,12,413,PD Residential Structure,Appliance Cord,Electrical
+2020,3/4/2020,Queens,,10,406,Garage/Shed,Electrical Wiring,Electrical
+2020,3/5/2020,Queens,50,9,402,Commercial Structure,Rangehood Fire - Ductwork,Cooking Carelessness
+2020,3/5/2020,Queens,45,1,414,MFA,MFA,No Fire
+2020,3/5/2020,Queens,49,1,414,Other,Incendiary - Combustible Material,Incendiary
+2020,3/5/2020,Queens,52,7,409,MD Residential Structure,Candle,Open Flame
+2020,3/5/2020,Queens,54,13,405,Brush,Incendiary,Incendiary
+2020,3/5/2020,Queens,51,10,406,Religious Structure,Incendiary,Incendiary
+2020,3/6/2020,Queens,45,1,414,MD Residential Structure,Ignitable Liquids/Gases - Pesticide Fogger,Ignitable
+2020,3/7/2020,Queens,49,3,415,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,3/8/2020,Queens,47,14,400,Outside Rubbish,Smoking (Cigarette/Cigar),Smoking
+2020,3/8/2020,Queens,51,9,402,Vehicle,Electrical Wiring,Electrical
+2020,3/8/2020,Queens,49,3,415,MD Residential Structure,Preliminary Investigation Only,Other
+2020,3/8/2020,Queens,54,12,413,Garage/Shed,Incendiary,Incendiary
+2020,3/8/2020,Queens,54,12,403,Vehicle,Motors - Fossil Fuel Powered,Motors
+2020,3/8/2020,Queens,47,14,400,Group Home,Other - No Fire,No Fire
+2020,3/8/2020,Queens,52,7,409,PD Residential Structure,Preliminary Investigation Only,Other
+2020,3/9/2020,Queens,50,9,402,PD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,3/9/2020,Queens,50,12,403,Vehicle,Electrical Wiring,Electrical
+2020,3/10/2020,Queens,46,4,410,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,3/10/2020,Queens,46,4,410,PD Residential Structure,Torch - Legal Use of,Open Flame
+2020,3/10/2020,Queens,47,14,401,School,Electrical Wiring,Electrical
+2020,3/10/2020,Queens,46,3,415,Garage/Shed,Smoking (Cigarette/Cigar),Smoking
+2020,3/11/2020,Queens,50,12,403,MD Residential Structure,Electrical Wiring,Electrical
+2020,3/11/2020,Queens,50,7,409,PD Residential Structure,Barbecue - Propane,Cooking Carelessness
+2020,3/11/2020,Queens,51,5,404,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,3/12/2020,Queens,28,5,404,MD Residential Structure,Stove/Cooking - Stove,Cooking Carelessness
+2020,3/13/2020,Queens,,7,409,MD Residential Structure,Incense,Hot Objects
+2020,3/13/2020,Queens,49,1,414,Government Structure,Incendiary - Combustible Material,Incendiary
+2020,3/13/2020,Queens,46,3,415,Outside Rubbish,Other - Electrical,Electrical
+2020,3/14/2020,Queens,,2,408,Vehicle,Smoking (Cigarette/Cigar),Smoking
+2020,3/14/2020,Queens,,3,415,PD Residential Structure,Juvenile Firesetter Intervention,Other
+2020,3/14/2020,Queens,52,7,409,Other,Incendiary - Ignitable Liquid,Incendiary
+2020,3/15/2020,Queens,45,2,408,Garage/Shed,Electrical Wiring,Electrical
+2020,3/15/2020,Queens,46,4,410,Commercial Structure,Electrical Wiring,Electrical
+2020,3/15/2020,Queens,46,3,415,PD Residential Structure,Incendiary,Incendiary
+2020,3/15/2020,Queens,,10,406,PD Residential Structure,Electrical Wiring,Electrical
+2020,3/16/2020,Queens,,8,407,MD Residential Structure,Electrical Wiring,Electrical
+2020,3/17/2020,Queens,51,9,402,PD Residential Structure,Incendiary,Incendiary
+2020,3/17/2020,Queens,50,12,403,PD Residential Structure,Electrical Wiring,Electrical
+2020,3/18/2020,Queens,53,13,405,PD Residential Structure,Extension Cord,Electrical
+2020,3/18/2020,Queens,52,7,409,MD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,3/18/2020,Queens,,7,405,Vehicle,Smoking (Cigarette/Cigar),Smoking
+2020,3/18/2020,Queens,51,10,406,Garage/Shed,Smoking (Cigarette/Cigar),Smoking
+2020,3/20/2020,Queens,52,7,409,Garage/Shed,Ignitable Liquids/Gases - Gasoline,Ignitable
+2020,3/20/2020,Queens,49,1,414,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,3/21/2020,Queens,49,1,414,MD Residential Structure,Incendiary,Incendiary
+2020,3/22/2020,Queens,,14,400,PD Residential Structure,Incendiary,Incendiary
+2020,3/22/2020,Queens,54,12,403,MD Residential Structure,Preliminary Investigation Only,Other
+2020,3/22/2020,Queens,28,5,404,PD Residential Structure,Candle,Open Flame
+2020,3/22/2020,Queens,50,12,403,Commercial Structure,Rangehood Fire - Ductwork,Cooking Carelessness
+2020,3/22/2020,Queens,51,1,414,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,3/22/2020,Queens,51,12,413,PD Residential Structure,Cooking Fire Extending to Clothing or Combustibles,Cooking Carelessness
+2020,3/23/2020,Queens,51,5,404,MD Residential Structure,Preliminary Investigation Only,Other
+2020,3/23/2020,Queens,46,5,404,PD Residential Structure,Preliminary Investigation Only,Other
+2020,3/23/2020,Queens,47,14,400,MD Residential Structure,Candle,Open Flame
+2020,3/24/2020,Queens,47,14,401,MD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,3/24/2020,Queens,,7,409,PD Residential Structure,Preliminary Investigation Only,Other
+2020,3/25/2020,Queens,46,6,412,Commercial Structure,Preliminary Investigation Only,Other
+2020,3/26/2020,Queens,,8,407,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,3/27/2020,Queens,50,4,403,Transit,Incendiary,Incendiary
+2020,3/27/2020,Queens,50,8,407,MD Residential Structure,Preliminary Investigation Only,Other
+2020,3/28/2020,Queens,46,4,410,PD Residential Structure,Preliminary Investigation Only,Other
+2020,3/29/2020,Queens,,3,415,MD Residential Structure,Preliminary Investigation Only,Other
+2020,3/30/2020,Queens,47,14,400,PD Residential Structure,Permanent Heater,Heaters
+2020,3/30/2020,Queens,51,10,406,PD Residential Structure,Permanent Heater - Gas,Heaters
+2020,3/30/2020,Queens,50,9,402,Commercial Structure,Preliminary Investigation Only,Other
+2020,3/31/2020,Queens,51,9,402,PD Residential Structure,Portable Heater,Heaters
+2020,4/1/2020,Queens,51,9,402,Vehicle,Electrical Wiring,Electrical
+2020,4/2/2020,Queens,47,14,401,PD Residential Structure,Incendiary,Incendiary
+2020,4/2/2020,Queens,,14,401,MD Residential Structure,SIU Investigation,Other
+2020,4/2/2020,Queens,47,14,401,PD Residential Structure,Incendiary,Incendiary
+2020,4/4/2020,Queens,49,3,415,MD Residential Structure,Electrical Wiring,Electrical
+2020,4/4/2020,Queens,51,10,406,PD Residential Structure,Incense,Hot Objects
+2020,4/5/2020,Queens,52,7,409,Commercial Structure,Preliminary Investigation Only,Other
+2020,4/5/2020,Queens,,13,405,MD Residential Structure,Electrical Wiring,Electrical
+2020,4/5/2020,Queens,51,10,406,PD Residential Structure,Preliminary Investigation Only,Other
+2020,4/7/2020,Queens,52,7,409,Vehicle,Vehicle Wiring,Electrical
+2020,4/7/2020,Queens,47,14,401,PD Residential Structure,Incendiary,Incendiary
+2020,4/7/2020,Queens,47,14,401,MD Residential Structure,SIU Investigation,Other
+2020,4/8/2020,Queens,51,5,404,Outside Rubbish,Incendiary,Incendiary
+2020,4/9/2020,Queens,50,12,403,MD Residential Structure,Preliminary Investigation Only,Other
+2020,4/10/2020,Queens,46,5,404,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,4/10/2020,Queens,52,11,411,Commercial Structure,Smoking (Cigarette/Cigar),Smoking
+2020,4/11/2020,Queens,45,2,408,Public Structure,Smoking (Cigarette/Cigar),Smoking
+2020,7/3/2020,Queens,50,12,403,Outside Rubbish,Incendiary,Incendiary
+2020,4/12/2020,Queens,50,8,407,Commercial Structure,Incendiary - Combustible Material,Incendiary
+2020,4/14/2020,Queens,47,14,401,MD Residential Structure,Incense,Hot Objects
+2020,4/14/2020,Queens,52,7,409,Commercial Structure,Electrical Wiring,Electrical
+2020,4/14/2020,Queens,46,5,404,MD Residential Structure,Incendiary,Incendiary
+2020,4/15/2020,Queens,47,14,400,Outside Rubbish,Incendiary,Incendiary
+2020,4/15/2020,Queens,47,14,400,PD Residential Structure,Incendiary,Incendiary
+2020,4/16/2020,Queens,47,14,401,MD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,4/16/2020,Queens,50,8,407,MFA,MFA,No Fire
+2020,4/16/2020,Queens,53,13,405,PD Residential Structure,Preliminary Investigation Only,Other
+2020,4/17/2020,Queens,54,12,413,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,4/17/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,4/18/2020,Queens,,7,409,MD Residential Structure,Incendiary,Incendiary
+2020,4/19/2020,Queens,49,1,414,PD Residential Structure,Extension Cord,Electrical
+2020,4/19/2020,Queens,47,14,401,PD Residential Structure,Electrical Wiring,Electrical
+2020,4/19/2020,Queens,,1,414,Commercial Structure,Preliminary Investigation Only,Other
+2020,4/20/2020,Queens,50,12,413,PD Residential Structure,Incendiary,Incendiary
+2020,4/20/2020,Queens,54,12,413,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,4/21/2020,Queens,47,14,401,PD Residential Structure,Incendiary,Incendiary
+2020,4/21/2020,Queens,45,2,408,MD Residential Structure,Stove/Cooking - Stove,Cooking Carelessness
+2020,4/22/2020,Queens,46,4,412,Vehicle,Preliminary Investigation Only,Other
+2020,4/22/2020,Queens,54,12,413,PD Residential Structure,Electrical Wiring,Electrical
+2020,4/23/2020,Queens,,1,414,MD Residential Structure,Preliminary Investigation Only,Other
+2020,4/23/2020,Queens,46,4,410,Commercial Structure,Electrical Wiring,Electrical
+2020,4/23/2020,Queens,51,9,402,PD Residential Structure,Power Strip,Electrical
+2020,4/23/2020,Queens,52,12,410,Vehicle,Motors - Fossil Fuel Powered,Motors
+2020,4/23/2020,Queens,,1,414,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,4/24/2020,Queens,46,4,410,Vehicle,Preliminary Investigation Only,Other
+2020,4/25/2020,Queens,51,9,402,PD Residential Structure,Electrical Wiring,Electrical
+2020,4/26/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,4/27/2020,Queens,54,13,405,Garage/Shed,Extension Cord,Electrical
+2020,4/27/2020,Queens,49,1,414,Outside Rubbish,Incendiary - Combustible Material,Incendiary
+2020,4/27/2020,Queens,46,4,410,MD Residential Structure,Other - No Fire,No Fire
+2020,4/28/2020,Queens,50,12,403,PD Residential Structure,Electrical Wiring,Electrical
+2020,4/28/2020,Queens,28,5,404,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,4/29/2020,Queens,49,3,415,Garage/Shed,Incendiary - Combustible Material,Incendiary
+2020,4/29/2020,Queens,54,13,405,MD Residential Structure,Preliminary Investigation Only,Other
+2020,4/29/2020,Queens,50,12,403,Vehicle,Smoking (Cigarette/Cigar),Smoking
+2020,4/30/2020,Queens,53,13,405,PD Residential Structure,Power Strip,Electrical
+2020,4/30/2020,Queens,54,10,406,PD Residential Structure,Preliminary Investigation Only,Other
+2020,5/3/2020,Queens,46,4,410,MD Residential Structure,Candle,Open Flame
+2020,5/3/2020,Queens,52,7,409,MD Residential Structure,Clothes Dryer,Appliances
+2020,5/4/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,5/4/2020,Queens,,12,413,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,5/5/2020,Queens,51,9,402,PD Residential Structure,Electrical Wiring,Electrical
+2020,5/5/2020,Queens,54,12,413,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,5/5/2020,Queens,45,2,408,No Fire,Preliminary Investigation Only,Other
+2020,5/5/2020,Queens,52,7,409,MD Residential Structure,Preliminary Investigation Only,Other
+2020,5/6/2020,Queens,50,12,403,MD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,5/7/2020,Queens,,14,401,Vehicle,Smoking (Cigarette/Cigar),Smoking
+2020,5/7/2020,Queens,51,10,406,PD Residential Structure,Electrical Wiring,Electrical
+2020,5/7/2020,Queens,53,11,411,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,5/8/2020,Queens,45,1,414,MD Residential Structure,Extension Cord,Electrical
+2020,5/9/2020,Queens,51,1,406,Commercial Structure,Extension Cord,Electrical
+2020,5/10/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,5/10/2020,Queens,54,12,413,PD Residential Structure,Electrical Wiring,Electrical
+2020,5/10/2020,Queens,51,10,406,Commercial Structure,Smoking (Cigarette/Cigar),Smoking
+2020,5/11/2020,Queens,,14,401,MD Residential Structure,Candle,Open Flame
+2020,5/11/2020,Queens,,9,402,Vehicle,Vehicle Wiring,Electrical
+2020,5/11/2020,Queens,,4,410,MD Residential Structure,Incendiary,Incendiary
+2020,5/12/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,5/12/2020,Queens,54,13,405,Vehicle,Smoking (Cigarette/Cigar),Smoking
+2020,5/12/2020,Queens,45,5,404,Commercial Structure,Other - Hot Objects,Hot Objects
+2020,5/13/2020,Queens,53,8,407,MD Residential Structure,Electrical Wiring,Electrical
+2020,5/13/2020,Queens,50,8,407,MD Residential Structure,Stove/Cooking - Fryer,Cooking Carelessness
+2020,5/14/2020,Queens,49,2,408,PD Residential Structure,Clothes Dryer,Appliances
+2020,5/14/2020,Queens,49,3,415,PD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,5/15/2020,Queens,49,1,414,PD Residential Structure,Electrical Wiring,Electrical
+2020,5/16/2020,Queens,,1,414,Commercial Structure,Electrical Wiring,Electrical
+2020,5/17/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,5/17/2020,Queens,49,3,415,PD Residential Structure,Extension Cord,Electrical
+2020,5/18/2020,Queens,46,4,410,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,5/19/2020,Queens,51,9,402,Other,Exothermic Chemical Reaction,Other
+2020,5/19/2020,Queens,52,7,409,PD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,5/19/2020,Queens,47,14,400,MD Residential Structure,Other - Electrical,Electrical
+2020,5/19/2020,Queens,,6,412,MD Residential Structure,Stove/Cooking - Other,Cooking Carelessness
+2020,5/19/2020,Queens,52,8,407,Commercial Structure,Electrical Wiring,Electrical
+2020,5/20/2020,Queens,,4,410,Outside Rubbish,Smoking (Cigarette/Cigar),Smoking
+2020,5/20/2020,Queens,,12,413,Vehicle,Heat or Sparks from Friction,Hot Objects
+2020,5/20/2020,Queens,46,4,410,PD Residential Structure,Extension Cord,Electrical
+2020,5/20/2020,Queens,51,6,412,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,5/20/2020,Queens,47,14,400,Brush,Incendiary,Incendiary
+2020,5/20/2020,Queens,50,12,403,PD Residential Structure,Incense,Hot Objects
+2020,5/21/2020,Queens,50,12,403,Outside Rubbish,Smoking (Cigarette/Cigar),Smoking
+2020,5/22/2020,Queens,49,1,414,Other,Incendiary - Combustible Material,Incendiary
+2020,5/22/2020,Queens,54,13,405,PD Residential Structure,Other - Electrical,Electrical
+2020,5/23/2020,Queens,45,2,408,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,5/23/2020,Queens,,8,407,Manhole,Preliminary Investigation Only,Other
+2020,5/23/2020,Queens,,3,415,MD Residential Structure,Stove - Propane,Appliances
+2020,5/24/2020,Queens,47,14,401,MD Residential Structure,Candle,Open Flame
+2020,5/24/2020,Queens,54,12,413,Vehicle,Vehicle Wiring,Electrical
+2020,5/24/2020,Queens,,9,402,Garage/Shed,Other - Electrical,Electrical
+2020,5/24/2020,Queens,50,12,403,Outside Rubbish,Smoking (Cigarette/Cigar),Smoking
+2020,5/25/2020,Queens,54,13,405,PD Residential Structure,Electrical Wiring,Electrical
+2020,5/25/2020,Queens,39,10,406,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,5/25/2020,Queens,,12,403,PD Residential Structure,Electrical Wiring,Electrical
+2020,5/25/2020,Queens,,13,405,PD Residential Structure,Heat from Light Bulb,Hot Objects
+2020,5/26/2020,Queens,46,6,412,Commercial Structure,Incendiary,Incendiary
+2020,5/26/2020,Queens,46,3,415,Outside Rubbish,Incendiary,Incendiary
+2020,5/27/2020,Queens,54,11,411,PD Residential Structure,Other - Electrical,Electrical
+2020,5/27/2020,Queens,54,13,405,Commercial Structure,Ignitable Liquids/Gases - Propane,Ignitable
+2020,5/27/2020,Queens,49,1,414,MD Residential Structure,Barbecue - Propane,Cooking Carelessness
+2020,5/28/2020,Queens,52,7,409,Outside Rubbish,Incendiary,Incendiary
+2020,5/30/2020,Queens,49,1,414,Government Structure,Incendiary,Incendiary
+2020,5/30/2020,Queens,53,13,405,Commercial Structure,Smoking (Cigarette/Cigar),Smoking
+2020,5/30/2020,Queens,52,7,409,MD Residential Structure,Not Ascertained,Other
+2020,5/30/2020,Queens,28,5,404,MD Residential Structure,Electrical Wiring,Electrical
+2020,5/31/2020,Queens,50,8,407,Outside Rubbish,Incendiary - Combustible Material,Incendiary
+2020,5/31/2020,Queens,52,7,409,Hotel,Incendiary,Incendiary
+2020,5/31/2020,Queens,50,8,407,Brush,Incendiary - Combustible Material,Incendiary
+2020,5/31/2020,Queens,,4,410,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,5/31/2020,Queens,50,8,407,Brush,Incendiary - Combustible Material,Incendiary
+2020,5/31/2020,Queens,,1,414,Brush,Smoking (Cigarette/Cigar),Smoking
+2020,5/31/2020,Queens,50,8,407,Brush,Incendiary - Combustible Material,Incendiary
+2020,5/31/2020,Queens,50,8,403,Outside Rubbish,Incendiary - Combustible Material,Incendiary
+2020,5/31/2020,Queens,50,8,407,Outside Rubbish,Incendiary,Incendiary
+2020,5/31/2020,Queens,50,8,407,Outside Rubbish,Incendiary - Combustible Material,Incendiary
+2020,5/31/2020,Queens,50,8,407,PD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,6/1/2020,Queens,50,8,407,Commercial Structure,Other - No Fire,No Fire
+2020,6/1/2020,Queens,,4,410,Commercial Structure,Power Strip,Electrical
+2020,6/1/2020,Queens,54,13,405,PD Residential Structure,Clothes Dryer - Natural Gas,Appliances
+2020,6/1/2020,Queens,51,10,406,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,6/2/2020,Queens,49,1,414,Brush,Incendiary,Incendiary
+2020,6/2/2020,Queens,50,12,403,PD Residential Structure,Incendiary,Incendiary
+2020,6/2/2020,Queens,46,4,410,MD Residential Structure,Stove/Cooking - Other,Cooking Carelessness
+2020,6/2/2020,Queens,45,5,404,Vehicle,Incendiary,Incendiary
+2020,6/2/2020,Queens,28,5,404,Vehicle,Incendiary,Incendiary
+2020,6/2/2020,Queens,50,9,402,Outside Rubbish,Incendiary - Combustible Material,Incendiary
+2020,6/3/2020,Queens,52,7,409,MD Residential Structure,Incendiary,Incendiary
+2020,6/3/2020,Queens,,8,407,Vehicle,Incendiary,Incendiary
+2020,6/4/2020,Queens,54,13,405,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,6/4/2020,Queens,49,1,414,MD Residential Structure,Motors - Electric,Motors
+2020,6/5/2020,Queens,,4,410,Commercial Structure,Incendiary,Incendiary
+2020,6/5/2020,Queens,,2,408,Outside Rubbish,Incendiary - Combustible Material,Incendiary
+2020,6/6/2020,Queens,53,11,411,MD Residential Structure,Cooking Fire Extending to Clothing or Combustibles,Cooking Carelessness
+2020,6/6/2020,Queens,46,3,415,PD Residential Structure,Cooking Fire Extending to Clothing or Combustibles,Cooking Carelessness
+2020,6/7/2020,Queens,54,12,413,MD Residential Structure,Stove/Cooking - Stove,Cooking Carelessness
+2020,6/7/2020,Queens,50,12,403,No Fire,Other - No Fire,No Fire
+2020,6/8/2020,Queens,46,2,408,MD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,6/8/2020,Queens,49,3,415,MD Residential Structure,Incendiary,Incendiary
+2020,6/9/2020,Queens,46,4,410,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,6/9/2020,Queens,52,7,409,Outside Rubbish,Incendiary,Incendiary
+2020,6/9/2020,Queens,54,13,405,Vehicle,Motors - Fossil Fuel Powered,Motors
+2020,6/10/2020,Queens,,4,410,PD Residential Structure,Extension Cord,Electrical
+2020,6/10/2020,Queens,,14,401,MD Residential Structure,Electrical Wiring,Electrical
+2020,6/10/2020,Queens,,1,414,MD Residential Structure,Candle,Open Flame
+2020,6/10/2020,Queens,51,9,402,MD Residential Structure,Electrical Wiring,Electrical
+2020,6/11/2020,Queens,46,4,410,MD Residential Structure,Candle,Open Flame
+2020,6/12/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,6/12/2020,Queens,51,9,402,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,6/12/2020,Queens,49,1,414,MD Residential Structure,Incendiary - Reckless Use of Open Flame,Incendiary
+2020,6/13/2020,Queens,51,10,406,MD Residential Structure,Incendiary,Incendiary
+2020,6/14/2020,Queens,49,1,414,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,6/14/2020,Queens,28,5,404,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,6/14/2020,Queens,52,7,409,Other,Incendiary - Ignitable Liquid,Incendiary
+2020,6/15/2020,Queens,54,12,403,MD Residential Structure,Other Motor,Motors
+2020,6/16/2020,Queens,46,3,415,Commercial Structure,Electrical Wiring,Electrical
+2020,6/16/2020,Queens,45,2,408,Commercial Structure,Spontaneous Combustion,Natural Sources
+2020,6/16/2020,Queens,54,13,405,Vehicle,Vehicle Wiring,Electrical
+2020,6/17/2020,Queens,54,12,413,Vehicle,Motors - Fossil Fuel Powered,Motors
+2020,6/18/2020,Queens,54,13,405,Commercial Structure,Other Appliance,Appliances
+2020,6/18/2020,Queens,54,12,413,MD Residential Structure,Incendiary - Fireworks,Incendiary
+2020,6/19/2020,Queens,54,12,405,Vehicle,Electrical Wiring,Electrical
+2020,6/19/2020,Queens,51,10,406,Commercial Structure,Electrical Wiring,Electrical
+2020,6/19/2020,Queens,52,7,409,No Fire,SIU Investigation,Other
+2020,6/19/2020,Queens,51,5,404,Garage/Shed,Incendiary - Fireworks,Incendiary
+2020,6/20/2020,Queens,50,12,403,Vehicle,Not Ascertained,Other
+2020,6/21/2020,Queens,,5,404,PD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,6/21/2020,Queens,,7,409,PD Residential Structure,Electrical Wiring,Electrical
+2020,6/21/2020,Queens,53,7,409,PD Residential Structure,Electrical Wiring,Electrical
+2020,6/21/2020,Queens,54,12,413,PD Residential Structure,Extension Cord,Electrical
+2020,6/21/2020,Queens,,12,403,MD Residential Structure,Incendiary - Fireworks,Incendiary
+2020,6/21/2020,Queens,54,13,405,PD Residential Structure,Incendiary - Fireworks,Incendiary
+2020,6/21/2020,Queens,52,7,409,Miscellaneous,Incendiary,Incendiary
+2020,6/21/2020,Queens,52,7,409,Miscellaneous,Incendiary - Ignitable Liquid,Incendiary
+2020,6/22/2020,Queens,52,7,409,Miscellaneous,Incendiary,Incendiary
+2020,6/22/2020,Queens,52,7,409,Miscellaneous,Incendiary - Ignitable Liquid,Incendiary
+2020,6/22/2020,Queens,46,5,404,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,6/22/2020,Queens,51,9,402,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,6/23/2020,Queens,53,11,411,School,Other - No Fire,No Fire
+2020,6/23/2020,Queens,39,9,402,Vehicle,Incendiary - Fireworks,Incendiary
+2020,6/23/2020,Queens,51,9,402,PD Residential Structure,Power Strip,Electrical
+2020,6/23/2020,Queens,46,3,415,MD Residential Structure,Stove/Cooking - Stove,Cooking Carelessness
+2020,6/23/2020,Queens,50,12,413,Garage/Shed,Barbecue - Wood/Charcoal,Cooking Carelessness
+2020,6/23/2020,Queens,54,13,405,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,6/24/2020,Queens,,13,405,PD Residential Structure,Electrical Wiring,Electrical
+2020,6/24/2020,Queens,47,14,401,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,6/24/2020,Queens,,3,415,Commercial Structure,Motors - Fan,Motors
+2020,11/12/2020,Queens,46,5,404,Vehicle,Incendiary,Incendiary
+2020,6/24/2020,Queens,,7,409,MD Residential Structure,Preliminary Investigation Only,Other
+2020,6/24/2020,Queens,,7,410,Garage/Shed,Incendiary,Incendiary
+2020,6/24/2020,Queens,47,14,401,Vehicle,Incendiary - Fireworks,Incendiary
+2020,6/25/2020,Queens,54,12,413,PD Residential Structure,Incendiary - Fireworks,Incendiary
+2020,6/25/2020,Queens,52,7,409,PD Residential Structure,Stove/Cooking - Fryer,Cooking Carelessness
+2020,6/25/2020,Queens,51,5,404,Commercial Structure,Smoking (Cigarette/Cigar),Smoking
+2020,6/26/2020,Queens,46,2,408,Other,Incendiary,Incendiary
+2020,6/26/2020,Queens,46,4,410,PD Residential Structure,Candle,Open Flame
+2020,6/26/2020,Queens,51,10,406,Garage/Shed,Incendiary,Incendiary
+2020,6/27/2020,Queens,50,12,403,Outside Rubbish,Incendiary,Incendiary
+2020,6/27/2020,Queens,52,7,409,MD Residential Structure,Matches/Lighter,Open Flame
+2020,6/27/2020,Queens,54,12,413,PD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,6/28/2020,Queens,,2,408,Commercial Structure,Spontaneous Combustion,Natural Sources
+2020,6/28/2020,Queens,,1,414,Commercial Structure,Smoking (Cigarette/Cigar),Smoking
+2020,6/28/2020,Queens,51,10,406,Vehicle,Not Ascertained,Other
+2020,6/29/2020,Queens,,12,403,PD Residential Structure,Electrical Wiring,Electrical
+2020,6/29/2020,Queens,54,12,413,PD Residential Structure,Electrical Wiring,Electrical
+2020,6/30/2020,Queens,54,13,405,PD Residential Structure,Other - Electrical,Electrical
+2020,7/1/2020,Queens,54,12,413,PD Residential Structure,Electrical Wiring,Electrical
+2020,7/1/2020,Queens,39,9,402,PD Residential Structure,Candle,Open Flame
+2020,7/1/2020,Queens,43,13,405,PD Residential Structure,Other - Electrical,Electrical
+2020,7/3/2020,Queens,53,11,411,PD Residential Structure,Vehicle Wiring,Electrical
+2020,7/3/2020,Queens,,11,411,MD Residential Structure,Electrical Wiring,Electrical
+2020,7/3/2020,Queens,45,1,408,Other,Other - Open Flame,Open Flame
+2020,7/4/2020,Queens,54,12,413,MD Residential Structure,Preliminary Investigation Only,Other
+2020,7/4/2020,Queens,52,7,409,PD Residential Structure,Incendiary - Fireworks,Incendiary
+2020,7/4/2020,Queens,49,1,414,Garage/Shed,Stove/Cooking - Stove,Cooking Carelessness
+2020,7/5/2020,Queens,54,12,403,Garage/Shed,Incendiary - Fireworks,Incendiary
+2020,7/5/2020,Queens,50,8,407,Vehicle,Incendiary - Fireworks,Incendiary
+2020,7/5/2020,Queens,50,12,403,Vehicle,Incendiary - Fireworks,Incendiary
+2020,7/5/2020,Queens,51,9,402,Vehicle,Preliminary Investigation Only,Other
+2020,7/5/2020,Queens,53,11,411,Vehicle,Motors - Fossil Fuel Powered,Motors
+2020,7/6/2020,Queens,45,1,414,Vehicle,Smoking (Cigarette/Cigar),Smoking
+2020,7/7/2020,Queens,,13,405,Outside Rubbish,Incendiary - Combustible Material,Incendiary
+2020,7/7/2020,Queens,46,4,410,MD Residential Structure,Incendiary,Incendiary
+2020,7/7/2020,Queens,49,1,414,MD Residential Structure,Electrical Wiring,Electrical
+2020,7/8/2020,Queens,50,10,406,Vehicle,Barbecue - Wood/Charcoal,Cooking Carelessness
+2020,7/8/2020,Queens,,9,402,Vehicle,Motors - Fossil Fuel Powered,Motors
+2020,7/8/2020,Queens,50,12,403,PD Residential Structure,Electrical Wiring,Electrical
+2020,7/9/2020,Queens,46,2,412,No Fire,Preliminary Investigation Only,Other
+2020,7/10/2020,Queens,46,5,404,Commercial Structure,Incendiary,Incendiary
+2020,7/10/2020,Queens,54,13,405,MFA,MFA,No Fire
+2020,7/10/2020,Queens,50,8,407,Other,Preliminary Investigation Only,Other
+2020,7/10/2020,Queens,51,9,402,PD Residential Structure,Electrical Wiring,Electrical
+2020,7/11/2020,Queens,28,5,404,Vehicle,Vehicle Wiring,Electrical
+2020,7/11/2020,Queens,54,13,405,PD Residential Structure,Stove/Cooking - Other,Cooking Carelessness
+2020,7/11/2020,Queens,28,5,404,PD Residential Structure,Other - Electrical,Electrical
+2020,7/11/2020,Queens,,5,404,MD Residential Structure,Preliminary Investigation Only,Other
+2020,7/12/2020,Queens,,8,407,MD Residential Structure,Stove/Cooking - Other,Cooking Carelessness
+2020,7/12/2020,Queens,52,7,409,PD Residential Structure,Electrical Wiring,Electrical
+2020,7/12/2020,Queens,51,9,402,Garage/Shed,Electrical Wiring,Electrical
+2020,7/12/2020,Queens,50,12,403,Garage/Shed,Appliance Cord,Electrical
+2020,7/13/2020,Queens,50,12,403,Outside Rubbish,Incendiary,Incendiary
+2020,7/13/2020,Queens,54,13,405,Vehicle,Incendiary,Incendiary
+2020,7/13/2020,Queens,46,4,410,PD Residential Structure,Electrical Wiring,Electrical
+2020,7/14/2020,Queens,,12,403,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,7/14/2020,Queens,,2,408,MD Residential Structure,Other - Electrical,Electrical
+2020,7/14/2020,Queens,54,12,413,No Fire,Other - No Fire,No Fire
+2020,7/14/2020,Queens,46,5,404,Vehicle,Vehicle Wiring,Electrical
+2020,7/15/2020,Queens,54,12,413,Vehicle,Preliminary Investigation Only,Other
+2020,7/16/2020,Queens,54,13,405,PD Residential Structure,Electrical Wiring,Electrical
+2020,7/16/2020,Queens,54,13,405,PD Residential Structure,Incendiary - Fireworks,Incendiary
+2020,7/17/2020,Queens,46,6,412,Vehicle,Vehicle Wiring,Electrical
+2020,7/17/2020,Queens,49,1,414,Vehicle,Smoking (Cigarette/Cigar),Smoking
+2020,7/17/2020,Queens,49,1,414,MD Residential Structure,Incendiary,Incendiary
+2020,7/17/2020,Queens,49,3,415,Government Structure,Other - Electrical,Electrical
+2020,7/17/2020,Queens,52,7,409,Other,Incendiary,Incendiary
+2020,7/17/2020,Queens,52,7,409,Other,Other,Other
+2020,7/17/2020,Queens,52,7,409,Sidewalk,Incendiary - Ignitable Liquid,Incendiary
+2020,7/17/2020,Queens,52,7,409,Street,Incendiary,Incendiary
+2020,7/17/2020,Queens,52,7,409,Other,Incendiary,Incendiary
+2020,7/17/2020,Queens,52,8,407,Street,Incendiary,Incendiary
+2020,7/18/2020,Queens,53,11,411,Other,Incendiary - Ignitable Liquid,Incendiary
+2020,7/18/2020,Queens,53,11,411,Other,Incendiary - Ignitable Liquid,Incendiary
+2020,7/18/2020,Queens,53,11,411,Other,Incendiary - Ignitable Liquid,Incendiary
+2020,7/18/2020,Queens,53,11,411,MD Residential Structure,Incendiary,Incendiary
+2020,7/19/2020,Queens,,12,413,PD Residential Structure,Power Strip,Electrical
+2020,7/19/2020,Queens,,13,405,PD Residential Structure,Under Investigation,Other
+2020,7/19/2020,Queens,54,12,413,MD Residential Structure,Incendiary,Incendiary
+2020,7/19/2020,Queens,53,13,405,PD Residential Structure,Stove/Cooking - Other,Cooking Carelessness
+2020,7/20/2020,Queens,53,13,405,PD Residential Structure,Other Appliance,Appliances
+2020,7/20/2020,Queens,47,14,400,Commercial Structure,Other - Liquid,Ignitable
+2020,7/20/2020,Queens,47,14,400,No Fire,Preliminary Investigation Only,Other
+2020,7/20/2020,Queens,46,4,410,Manhole,Feeder Cable,Electrical
+2020,7/21/2020,Queens,46,4,410,MD Residential Structure,Incendiary - Attempted Suicide,Incendiary
+2020,7/22/2020,Queens,,7,409,MD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,7/22/2020,Queens,49,1,414,Public Hallway,Other - No Fire,No Fire
+2020,7/22/2020,Queens,51,10,406,Religious Structure,Lightning,Natural Sources
+2020,7/22/2020,Queens,52,3,415,Vehicle,Incendiary,Incendiary
+2020,7/23/2020,Queens,50,8,407,MD Residential Structure,Exothermic Chemical Reaction,Other
+2020,7/24/2020,Queens,,2,408,PD Residential Structure,Power Strip,Electrical
+2020,7/24/2020,Queens,,12,413,MD Residential Structure,Preliminary Investigation Only,Other
+2020,7/24/2020,Queens,54,12,403,PD Residential Structure,Electrical Wiring,Electrical
+2020,7/24/2020,Queens,45,2,408,MD Residential Structure,Electrical Wiring,Electrical
+2020,7/25/2020,Queens,53,13,405,PD Residential Structure,Electrical Wiring,Electrical
+2020,7/25/2020,Queens,39,9,402,Other,Barbecue - Propane,Cooking Carelessness
+2020,7/27/2020,Queens,52,7,409,Burn Notification,Cooking Fire Extending to Clothing or Combustibles,Cooking Carelessness
+2020,7/27/2020,Queens,46,4,410,Manhole,Preliminary Investigation Only,Other
+2020,7/27/2020,Queens,50,8,407,Commercial Structure,Appliance Cord,Electrical
+2020,7/28/2020,Queens,46,2,408,Garage/Shed,Other - Electrical,Electrical
+2020,7/28/2020,Queens,46,4,410,MD Residential Structure,Ignitable Liquids/Gases - Pesticide Fogger,Ignitable
+2020,7/29/2020,Queens,46,3,415,Outside Rubbish,Incendiary,Incendiary
+2020,7/30/2020,Queens,45,1,414,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,7/31/2020,Queens,50,12,403,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,7/31/2020,Queens,49,1,414,PD Residential Structure,Appliance Cord,Electrical
+2020,7/31/2020,Queens,49,1,414,Vehicle,Incendiary,Incendiary
+2020,8/1/2020,Queens,54,12,403,Commercial Structure,Other,Other
+2020,8/1/2020,Queens,51,9,402,Commercial Structure,Smoking (Cigarette/Cigar),Smoking
+2020,8/1/2020,Queens,46,4,410,Manhole,Preliminary Investigation Only,Other
+2020,8/3/2020,Queens,46,2,408,MD Residential Structure,Barbecue - Wood/Charcoal,Cooking Carelessness
+2020,8/3/2020,Queens,50,12,403,Vehicle,Not Ascertained,Other
+2020,8/4/2020,Queens,54,12,413,Outside Rubbish,Incendiary,Incendiary
+2020,8/4/2020,Queens,49,1,414,Commercial Structure,Incendiary,Incendiary
+2020,8/4/2020,Queens,50,9,402,PD Residential Structure,Preliminary Investigation Only,Other
+2020,8/4/2020,Queens,49,1,414,MD Residential Structure,Preliminary Investigation Only,Other
+2020,8/5/2020,Queens,54,13,405,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,8/5/2020,Queens,47,14,400,Vehicle,Motors - Fossil Fuel Powered,Motors
+2020,8/5/2020,Queens,49,1,414,MD Residential Structure,Candle,Open Flame
+2020,8/6/2020,Queens,47,14,401,PD Residential Structure,Clothes Dryer,Appliances
+2020,8/6/2020,Queens,53,13,405,Garage/Shed,Electrical Wiring,Electrical
+2020,8/6/2020,Queens,47,14,400,Boat,Other - Ignitable Liquid/Gas,Ignitable
+2020,8/6/2020,Queens,50,12,403,Vehicle,Incendiary - Explosives,Incendiary
+2020,8/7/2020,Queens,39,9,402,Miscellaneous,Preliminary Investigation Only,Other
+2020,8/8/2020,Queens,52,7,409,PD Residential Structure,Feeder Cable,Electrical
+2020,8/8/2020,Queens,,12,403,PD Residential Structure,Other - Electrical,Electrical
+2020,8/9/2020,Queens,54,12,413,PD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,8/10/2020,Queens,45,4,410,Burn Notification,Other - Open Flame,Open Flame
+2020,8/10/2020,Queens,52,7,409,Boat,Other Motor,Motors
+2020,8/10/2020,Queens,50,Out of NYC,#VALUE!,Other,Other Motor,Motors
+2020,8/11/2020,Queens,,1,414,MD Residential Structure,Extension Cord,Electrical
+2020,8/13/2020,Queens,52,7,409,PD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,8/13/2020,Queens,52,3,415,MD Residential Structure,Stove/Cooking - Stove,Cooking Carelessness
+2020,8/14/2020,Queens,53,13,405,MD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,8/14/2020,Queens,50,12,403,MD Residential Structure,Extension Cord,Electrical
+2020,8/15/2020,Queens,46,3,415,Garage/Shed,Extension Cord,Electrical
+2020,8/16/2020,Queens,53,13,405,Commercial Structure,Brands,Hot Objects
+2020,8/16/2020,Queens,,11,411,Vehicle,Vehicle Wiring,Electrical
+2020,8/16/2020,Queens,,12,413,MD Residential Structure,Appliance Cord,Electrical
+2020,8/17/2020,Queens,46,5,404,No Fire,SIU Investigation,Other
+2020,8/17/2020,Queens,51,5,402,Vehicle,Ignitable Liquids/Gases - Gasoline,Ignitable
+2020,8/18/2020,Queens,47,14,400,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,8/18/2020,Queens,,7,409,MD Residential Structure,Incendiary,Incendiary
+2020,8/20/2020,Queens,49,1,414,MD Residential Structure,Other - Electrical,Electrical
+2020,8/20/2020,Queens,45,2,408,No Fire,Preliminary Investigation Only,Other
+2020,8/21/2020,Queens,45,1,414,MD Residential Structure,Incendiary,Incendiary
+2020,8/22/2020,Queens,53,13,405,PD Residential Structure,Incendiary - Explosives,Incendiary
+2020,8/22/2020,Queens,46,2,408,PD Residential Structure,Stove/Cooking - Stove,Cooking Carelessness
+2020,8/23/2020,Queens,,1,414,Commercial Structure,Appliance Cord,Electrical
+2020,8/23/2020,Queens,,8,407,Vehicle,Other Motor,Motors
+2020,8/26/2020,Queens,49,3,415,Vehicle,Vehicle Wiring,Electrical
+2020,8/27/2020,Queens,52,7,409,Commercial Structure,Stove/Cooking - Electric,Cooking Carelessness
+2020,8/27/2020,Queens,50,12,403,Outside Rubbish,Hot Embers,Hot Objects
+2020,8/27/2020,Queens,50,6,412,No Fire,Preliminary Investigation Only,Other
+2020,8/28/2020,Queens,49,1,414,Commercial Structure,Holiday Lighting,Electrical
+2020,8/28/2020,Queens,52,8,407,PD Residential Structure,Feeder Cable,Electrical
+2020,8/29/2020,Queens,54,13,405,PD Residential Structure,SIU Investigation,Other
+2020,8/29/2020,Queens,,13,405,Vehicle,Incendiary,Incendiary
+2020,8/29/2020,Queens,51,9,402,PD Residential Structure,Preliminary Investigation Only,Other
+2020,8/30/2020,Queens,50,12,403,Commercial Structure,Incendiary - Combustible Material,Incendiary
+2020,8/30/2020,Queens,50,12,403,PD Residential Structure,Preliminary Investigation Only,Other
+2020,8/30/2020,Queens,45,1,414,MD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,8/30/2020,Queens,50,8,407,Outside Rubbish,Incendiary,Incendiary
+2020,8/31/2020,Queens,50,8,407,MD Residential Structure,Incendiary,Incendiary
+2020,8/31/2020,Queens,28,5,404,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,8/31/2020,Queens,46,5,404,Garage/Shed,Vehicle Wiring,Electrical
+2020,9/1/2020,Queens,54,8,407,MD Residential Structure,Preliminary Investigation Only,Other
+2020,9/1/2020,Queens,50,12,403,Religious Structure,Incendiary,Incendiary
+2021,9/1/2020,Queens,50,12,403,Religious Structure,Incendiary,Incendiary
+2020,9/1/2020,Queens,46,4,410,PD Residential Structure,Other - Electrical,Electrical
+2020,9/1/2020,Queens,49,1,414,Commercial Structure,Electrical Wiring,Electrical
+2020,9/2/2020,Queens,50,12,403,Outside Rubbish,Incendiary,Incendiary
+2020,9/2/2020,Queens,50,12,403,Outside Rubbish,Incendiary,Incendiary
+2020,9/2/2020,Queens,50,9,402,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,9/2/2020,Queens,49,1,414,PD Residential Structure,Electrical Wiring,Electrical
+2020,9/3/2020,Queens,49,3,415,MD Residential Structure,Other,Other
+2020,9/3/2020,Queens,50,9,402,Commercial Structure,Other - No Fire,No Fire
+2020,9/4/2020,Queens,54,12,413,Outside Rubbish,Smoking (Cigarette/Cigar),Smoking
+2020,9/4/2020,Queens,45,1,414,MD Residential Structure,Juvenile Firesetter Intervention,Other
+2020,9/4/2020,Queens,47,14,400,PD Residential Structure,Incendiary - Fireworks,Incendiary
+2020,9/5/2020,Queens,49,1,414,MD Residential Structure,Incendiary,Incendiary
+2020,9/5/2020,Queens,49,1,414,PD Residential Structure,Preliminary Investigation Only,Other
+2020,9/5/2020,Queens,46,4,410,MD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,9/5/2020,Queens,52,7,409,PD Residential Structure,Stove/Cooking - Other,Cooking Carelessness
+2020,9/5/2020,Queens,46,2,408,Other,Preliminary Investigation Only,Other
+2020,9/6/2020,Queens,46,4,410,PD Residential Structure,Other - Electrical,Electrical
+2020,9/6/2020,Queens,52,7,409,PD Residential Structure,Incense,Hot Objects
+2020,9/6/2020,Queens,46,5,404,Commercial Structure,Electrical Wiring,Electrical
+2020,9/6/2020,Queens,54,13,405,PD Residential Structure,Microwave,Appliances
+2020,9/6/2020,Queens,50,8,407,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,9/8/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,9/9/2020,Queens,49,3,415,Outside Rubbish,Incendiary,Incendiary
+2020,9/9/2020,Queens,46,5,404,Vehicle,Vehicle Wiring,Electrical
+2020,9/9/2020,Queens,50,12,403,MFA,MFA,No Fire
+2020,9/9/2020,Queens,54,13,405,Garage/Shed,Other - Hot Objects,Hot Objects
+2020,9/9/2020,Queens,,1,414,MD Residential Structure,Juvenile Firesetter Intervention,Other
+2020,9/10/2020,Queens,49,1,414,MD Residential Structure,Other,Other
+2020,9/10/2020,Queens,51,9,402,Transformer,Preliminary Investigation Only,Other
+2020,9/10/2020,Queens,46,2,408,PD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,9/11/2020,Queens,47,14,401,MD Residential Structure,Other - Hot Objects,Hot Objects
+2020,9/11/2020,Queens,51,12,413,Vehicle,Not Ascertained,Other
+2020,9/11/2020,Queens,49,3,415,MD Residential Structure,Other - Electrical,Electrical
+2020,9/12/2020,Queens,51,10,413,Vehicle,Electrical Wiring,Electrical
+2020,9/12/2020,Queens,52,7,409,PD Residential Structure,Electrical Wiring,Electrical
+2020,9/12/2020,Queens,46,6,412,Vehicle,Preliminary Investigation Only,Other
+2020,9/12/2020,Queens,46,4,410,Hospital,Incendiary,Incendiary
+2020,9/14/2020,Queens,50,12,403,PD Residential Structure,Incendiary,Incendiary
+2020,9/14/2020,Queens,54,13,405,PD Residential Structure,Stove/Cooking - Stove,Cooking Carelessness
+2020,9/14/2020,Queens,50,12,403,MD Residential Structure,Incendiary,Incendiary
+2020,9/15/2020,Queens,54,13,405,PD Residential Structure,Spontaneous Combustion,Natural Sources
+2020,9/15/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,9/15/2020,Queens,49,1,414,PD Residential Structure,Incendiary - Reckless Use of Open Flame,Incendiary
+2020,9/15/2020,Queens,49,3,415,MD Residential Structure,Incendiary,Incendiary
+2020,9/16/2020,Queens,49,1,414,MD Residential Structure,Cable/Satellite Equipment,Electrical Devices
+2020,9/17/2020,Queens,46,4,410,MD Residential Structure,Extension Cord,Electrical
+2020,9/17/2020,Queens,,14,401,Vehicle,Motors - Fossil Fuel Powered,Motors
+2020,9/17/2020,Queens,50,12,403,MD Residential Structure,Incendiary,Incendiary
+2020,9/18/2020,Queens,45,2,408,Vehicle,Incendiary,Incendiary
+2020,9/18/2020,Queens,28,5,404,MD Residential Structure,Extension Cord,Electrical
+2020,9/18/2020,Queens,52,8,407,Commercial Structure,Other - Electrical,Electrical
+2020,9/19/2020,Queens,28,5,404,MD Residential Structure,Electrical Wiring,Electrical
+2020,9/19/2020,Queens,50,9,402,PD Residential Structure,Electrical Wiring,Electrical
+2020,9/19/2020,Queens,47,10,400,Commercial Structure,Incendiary - Fireworks,Incendiary
+2020,9/20/2020,Queens,45,2,408,Vehicle,Motors - Fossil Fuel Powered,Motors
+2020,9/20/2020,Queens,50,12,403,Commercial Structure,Refrigeration Compressor,Appliances
+2020,9/20/2020,Queens,,1,414,Government Structure,Incendiary,Incendiary
+2020,9/20/2020,Queens,52,7,410,Commercial Structure,Incendiary - Reckless Use of Open Flame,Incendiary
+2020,9/20/2020,Queens,46,4,410,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,9/20/2020,Queens,46,2,408,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,9/20/2020,Queens,54,13,405,Vehicle,Incendiary,Incendiary
+2020,9/21/2020,Queens,45,1,414,Other,Juvenile Firesetter Intervention,Other
+2020,9/21/2020,Queens,49,1,414,PD Residential Structure,Clothes Dryer - Natural Gas,Appliances
+2020,9/22/2020,Queens,52,7,409,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,9/22/2020,Queens,46,5,404,MD Residential Structure,Incendiary,Incendiary
+2020,9/23/2020,Queens,49,1,414,MD Residential Structure,Juvenile Firesetter Intervention,Other
+2020,9/25/2020,Queens,54,12,413,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,9/25/2020,Queens,49,1,414,MD Residential Structure,Electrical Wiring,Electrical
+2020,9/25/2020,Queens,49,3,415,MD Residential Structure,Heat from Light Bulb,Hot Objects
+2020,9/25/2020,Queens,47,14,401,Vehicle,Incendiary,Incendiary
+2020,9/26/2020,Queens,49,3,415,PD Residential Structure,Electrical Wiring,Electrical
+2020,9/27/2020,Queens,39,9,402,PD Residential Structure,Stove  - Natural Gas,Appliances
+2020,9/27/2020,Queens,53,13,405,Other,SIU Investigation,Other
+2020,9/27/2020,Queens,,9,402,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,9/28/2020,Queens,49,1,414,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,9/28/2020,Queens,49,3,415,PD Residential Structure,Incendiary,Incendiary
+2020,9/28/2020,Queens,52,7,409,MD Residential Structure,Preliminary Investigation Only,Other
+2020,9/28/2020,Queens,45,1,414,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,9/29/2020,Queens,52,7,409,PD Residential Structure,Extension Cord,Electrical
+2020,9/30/2020,Queens,52,7,409,PD Residential Structure,Electrical Wiring,Electrical
+2020,9/30/2020,Queens,46,6,412,PD Residential Structure,Other Appliance,Appliances
+2020,9/30/2020,Queens,46,2,408,PD Residential Structure,Cooking Fire Extending to Clothing or Combustibles,Cooking Carelessness
+2020,9/30/2020,Queens,49,1,414,PD Residential Structure,Candle,Open Flame
+2020,10/1/2020,Queens,54,12,413,PD Residential Structure,Incendiary - Reckless Use of Open Flame,Incendiary
+2020,10/2/2020,Queens,,12,413,PD Residential Structure,Incense,Hot Objects
+2020,10/3/2020,Queens,45,2,408,Vehicle,Incendiary,Incendiary
+2020,10/4/2020,Queens,52,7,409,Aircraft,Preliminary Investigation Only,Other
+2020,10/5/2020,Queens,45,1,414,Vehicle,Incendiary,Incendiary
+2020,10/5/2020,Queens,49,3,415,Outside Rubbish,Incendiary,Incendiary
+2020,10/5/2020,Queens,49,3,415,Miscellaneous,Hot Embers,Hot Objects
+2020,10/6/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,10/7/2020,Queens,46,3,415,PD Residential Structure,Exothermic Chemical Reaction,Other
+2020,10/8/2020,Queens,49,3,415,PD Residential Structure,Spontaneous Combustion,Natural Sources
+2020,10/8/2020,Queens,54,12,413,PD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,10/8/2020,Queens,47,14,400,No Fire,Preliminary Investigation Only,Other
+2020,10/9/2020,Queens,54,13,405,Garage/Shed,Electrical Wiring,Electrical
+2020,10/9/2020,Queens,50,9,402,PD Residential Structure,Electrical Wiring,Electrical
+2020,10/9/2020,Queens,49,1,414,PD Residential Structure,Stove/Cooking - Stove,Cooking Carelessness
+2020,10/10/2020,Queens,39,9,402,MD Residential Structure,Incendiary,Incendiary
+2020,10/10/2020,Queens,28,5,404,Vehicle,Incendiary,Incendiary
+2020,10/10/2020,Queens,45,2,408,MFA,MFA,No Fire
+2020,10/10/2020,Queens,46,4,410,PD Residential Structure,Incendiary,Incendiary
+2020,10/11/2020,Queens,45,2,408,MFA,MFA,No Fire
+2020,10/11/2020,Queens,49,2,408,MFA,MFA,No Fire
+2020,10/12/2020,Queens,54,13,405,PD Residential Structure,Torch - Legal Use of,Open Flame
+2020,10/12/2020,Queens,50,12,403,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,10/14/2020,Queens,52,7,409,Hospital,Incendiary,Incendiary
+2020,10/14/2020,Queens,53,11,411,Garage/Shed,Electrical Wiring,Electrical
+2020,10/15/2020,Queens,53,13,405,PD Residential Structure,Power Strip,Electrical
+2020,10/15/2020,Queens,45,1,414,Vehicle,Incendiary,Incendiary
+2020,10/15/2020,Queens,49,1,414,Commercial Structure,Heat or Sparks from Friction,Hot Objects
+2020,10/15/2020,Queens,50,6,412,MD Residential Structure,Stove  - Natural Gas,Appliances
+2020,10/15/2020,Queens,45,2,408,Vehicle,Other,Other
+2020,10/16/2020,Queens,50,8,407,Outside Rubbish,Incendiary,Incendiary
+2020,10/16/2020,Queens,50,8,407,Outside Rubbish,Incendiary,Incendiary
+2020,10/16/2020,Queens,50,8,407,Outside Rubbish,Incendiary,Incendiary
+2020,10/17/2020,Queens,54,13,405,PD Residential Structure,Permanent Heater - Oil,Heaters
+2020,10/17/2020,Queens,47,14,400,PD Residential Structure,Hard Wire Outlet,Electrical
+2020,10/18/2020,Queens,46,6,412,Garage/Shed,Vehicle Wiring,Electrical
+2020,10/18/2020,Queens,47,14,400,Commercial Structure,Power Strip,Electrical
+2020,10/20/2020,Queens,50,12,403,MD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,10/21/2020,Queens,54,12,403,PD Residential Structure,Candle,Open Flame
+2020,10/21/2020,Queens,52,7,410,Vehicle,Incendiary,Incendiary
+2020,10/21/2020,Queens,54,13,405,MD Residential Structure,Food on the Stove,Cooking Carelessness
+2020,10/21/2020,Queens,46,4,410,Other,Preliminary Investigation Only,Other
+2020,10/22/2020,Queens,47,14,401,PD Residential Structure,Spontaneous Combustion,Natural Sources
+2020,10/22/2020,Queens,46,6,412,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,10/24/2020,Queens,47,14,401,MD Residential Structure,Incendiary,Incendiary
+2020,10/24/2020,Queens,52,7,409,MD Residential Structure,Feeder Cable,Electrical
+2020,10/24/2020,Queens,51,9,402,PD Residential Structure,Electrical Wiring,Electrical
+2020,10/25/2020,Queens,52,7,409,MD Residential Structure,Electrical Wiring,Electrical
+2020,10/27/2020,Queens,51,10,406,Commercial Structure,Incendiary - Combustible Material,Incendiary
+2020,10/27/2020,Queens,45,1,414,MD Residential Structure,Incendiary,Incendiary
+2020,10/30/2020,Queens,52,8,407,PD Residential Structure,Candle,Open Flame
+2020,10/30/2020,Queens,45,1,414,MFA,MFA,No Fire
+2020,10/31/2020,Queens,46,3,415,PD Residential Structure,Power Strip,Electrical
+2020,10/31/2020,Queens,50,12,413,Vehicle,Incendiary,Incendiary
+2020,11/1/2020,Queens,51,10,406,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,11/1/2020,Queens,,13,405,PD Residential Structure,Other,Other
+2020,11/1/2020,Queens,,4,410,PD Residential Structure,Portable Heater - Propane,Heaters
+2020,11/3/2020,Queens,53,13,405,PD Residential Structure,Preliminary Investigation Only,Other
+2020,11/3/2020,Queens,54,12,413,PD Residential Structure,Electrical Wiring,Electrical
+2020,11/3/2020,Queens,50,12,403,Vehicle,Vehicle Wiring,Electrical
+2020,11/4/2020,Queens,13,13,405,PD Residential Structure,Electrical Wiring,Electrical
+2020,11/4/2020,Queens,,12,413,Other,Incendiary,Incendiary
+2020,11/4/2020,Queens,50,9,402,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,11/4/2020,Queens,,8,407,PD Residential Structure,Ignitable Liquids/Gases - Fuel Oil,Ignitable
+2020,11/4/2020,Queens,50,12,413,PD Residential Structure,Preliminary Investigation Only,Other
+2020,11/4/2020,Queens,54,12,413,Other,Incendiary - Ignitable Liquid,Incendiary
+2020,11/5/2020,Queens,46,5,404,PD Residential Structure,Candle,Open Flame
+2020,11/6/2020,Queens,51,9,402,PD Residential Structure,Electrical Wiring,Electrical
+2020,11/6/2020,Queens,52,7,409,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,11/6/2020,Queens,28,5,404,PD Residential Structure,Preliminary Investigation Only,Other
+2020,11/6/2020,Queens,39,10,406,PD Residential Structure,Preliminary Investigation Only,Other
+2020,11/6/2020,Queens,49,1,414,PD Residential Structure,Electrical Wiring,Electrical
+2020,11/7/2020,Queens,47,14,401,PD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,11/7/2020,Queens,54,12,413,PD Residential Structure,Incendiary - Reckless Use of Open Flame,Incendiary
+2020,11/8/2020,Queens,50,12,403,No Fire,Carbon Monoxide Incident,No Fire
+2020,11/8/2020,Queens,,12,403,Commercial Structure,Incendiary,Incendiary
+2020,11/9/2020,Queens,51,10,406,PD Residential Structure,Torch - Legal Use of,Open Flame
+2020,11/9/2020,Queens,46,4,410,Commercial Structure,Incendiary,Incendiary
+2020,11/10/2020,Queens,53,13,405,Commercial Structure,Incendiary,Incendiary
+2020,11/10/2020,Queens,51,9,402,PD Residential Structure,Electrical Wiring,Electrical
+2020,11/10/2020,Queens,46,6,412,Vehicle,Smoking (Cigarette/Cigar),Smoking
+2020,11/11/2020,Queens,54,13,405,PD Residential Structure,Candle,Open Flame
+2020,11/11/2020,Queens,52,7,409,PD Residential Structure,Hard Wire Outlet,Electrical
+2020,11/11/2020,Queens,52,7,409,PD Residential Structure,Other - Electrical,Electrical
+2020,11/12/2020,Queens,51,9,402,PD Residential Structure,Candle,Open Flame
+2020,11/12/2020,Queens,52,7,409,Commercial Structure,Incendiary,Incendiary
+2020,11/12/2020,Queens,52,7,409,Hotel,Incendiary,Incendiary
+2020,11/13/2020,Queens,52,8,407,Garage/Shed,Incendiary,Incendiary
+2020,11/13/2020,Queens,54,12,413,Outside Rubbish,Barbecue - Wood/Charcoal,Cooking Carelessness
+2020,11/13/2020,Queens,51,9,402,Commercial Structure,Electrical Wiring,Electrical
+2020,11/13/2020,Queens,52,7,409,Commercial Structure,Power Strip,Electrical
+2020,11/14/2020,Queens,54,13,405,Commercial Structure,Vehicle Wiring,Electrical
+2020,11/15/2020,Queens,39,10,406,PD Residential Structure,Candle,Open Flame
+2020,11/15/2020,Queens,45,1,414,Garage/Shed,Preliminary Investigation Only,Other
+2020,11/17/2020,Queens,50,12,413,Commercial Structure,Stove/Cooking - Other,Cooking Carelessness
+2020,11/17/2020,Queens,47,1,400,Other,Preliminary Investigation Only,Other
+2020,11/17/2020,Queens,46,5,404,Public Structure,Incendiary,Incendiary
+2020,11/18/2020,Queens,51,10,406,PD Residential Structure,Incendiary,Incendiary
+2020,11/18/2020,Queens,49,3,415,PD Residential Structure,Portable Heater - Electric,Heaters
+2020,11/18/2020,Queens,47,14,401,MD Residential Structure,Extension Cord,Electrical
+2020,11/19/2020,Queens,54,13,405,Commercial Structure,Feeder Cable,Electrical
+2020,11/20/2020,Queens,54,12,413,PD Residential Structure,Preliminary Investigation Only,Other
+2020,11/21/2020,Queens,46,5,404,PD Residential Structure,Service,Electrical
+2020,11/22/2020,Queens,52,7,409,PD Residential Structure,Preliminary Investigation Only,Other
+2020,11/23/2020,Queens,,3,415,Vehicle,Motors - Fossil Fuel Powered,Motors
+2020,11/23/2020,Queens,54,12,403,PD Residential Structure,Preliminary Investigation Only,Other
+2020,11/24/2020,Queens,50,12,403,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,11/25/2020,Queens,53,13,405,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,11/25/2020,Queens,39,9,402,Garage/Shed,Other - Electrical,Electrical
+2020,11/25/2020,Queens,54,13,405,PD Residential Structure,Preliminary Investigation Only,Other
+2020,11/25/2020,Queens,46,4,410,MD Residential Structure,Preliminary Investigation Only,Other
+2020,11/27/2020,Queens,45,2,408,Commercial Structure,Extension Cord,Electrical
+2020,11/27/2020,Queens,54,13,405,Vehicle,Vehicle Wiring,Electrical
+2020,11/28/2020,Queens,53,13,405,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,11/29/2020,Queens,50,6,412,Commercial Structure,Feeder Cable,Electrical
+2020,11/29/2020,Queens,49,1,414,Vehicle,Preliminary Investigation Only,Other
+2020,11/30/2020,Queens,47,14,401,PD Residential Structure,Electrical Wiring,Electrical
+2020,11/30/2020,Queens,53,11,411,PD Residential Structure,Clothes Dryer - Natural Gas,Appliances
+2020,11/30/2020,Queens,,7,409,MD Residential Structure,Candle,Open Flame
+2020,12/2/2020,Queens,54,13,405,MD Residential Structure,Electrical Wiring,Electrical
+2020,12/2/2020,Queens,,13,405,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,12/3/2020,Queens,,5,404,MD Residential Structure,Holiday Lighting,Electrical
+2020,12/3/2020,Queens,51,9,402,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,12/3/2020,Queens,28,5,404,MD Residential Structure,Electrical Wiring,Electrical
+2020,12/4/2020,Queens,54,13,405,Vehicle,Incendiary,Incendiary
+2020,12/6/2020,Queens,54,13,405,PD Residential Structure,Heat from Light Bulb,Hot Objects
+2020,12/6/2020,Queens,28,5,404,Vehicle,Incendiary,Incendiary
+2020,12/6/2020,Queens,47,14,401,MD Residential Structure,Candle,Open Flame
+2020,12/7/2020,Queens,54,13,405,PD Residential Structure,Extension Cord,Electrical
+2020,12/8/2020,Queens,50,8,407,MD Residential Structure,Incendiary,Incendiary
+2020,12/8/2020,Queens,47,14,400,Commercial Structure,Other - Open Flame,Open Flame
+2020,12/9/2020,Queens,49,3,415,PD Residential Structure,Cooking Fire Extending to Clothing or Combustibles,Cooking Carelessness
+2020,12/10/2020,Queens,51,9,402,Possible Single Room Occupancy,Candle,Open Flame
+2020,12/10/2020,Queens,50,12,413,Vehicle,Incendiary - Ignitable Liquid,Incendiary
+2020,12/10/2020,Queens,,3,415,MD Residential Structure,Stove/Cooking - Toaster Oven,Cooking Carelessness
+2020,12/11/2020,Queens,49,1,414,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,12/12/2020,Queens,49,1,414,MD Residential Structure,Stove  - Natural Gas,Appliances
+2020,12/12/2020,Queens,46,3,415,MD Residential Structure,Extension Cord,Electrical
+2020,12/12/2020,Queens,46,6,412,MD Residential Structure,Cooking Fire Extending to Clothing or Combustibles,Cooking Carelessness
+2020,12/12/2020,Queens,52,7,409,MD Residential Structure,TV,Electrical Devices
+2020,12/12/2020,Queens,47,14,401,MD Residential Structure,Incendiary - Reckless Use of Open Flame,Incendiary
+2020,12/13/2020,Queens,50,12,413,PD Residential Structure,Candle,Open Flame
+2020,12/13/2020,Queens,49,1,414,Vehicle,Other - No Fire,No Fire
+2020,12/14/2020,Queens,46,4,410,Outside Rubbish,Smoking (Cigarette/Cigar),Smoking
+2020,12/15/2020,Queens,50,8,407,Commercial Structure,Extension Cord,Electrical
+2020,12/15/2020,Queens,47,14,401,PD Residential Structure,Extension Cord,Electrical
+2020,12/15/2020,Queens,51,13,405,PD Residential Structure,Electrical Wiring,Electrical
+2020,12/15/2020,Queens,53,11,411,PD Residential Structure,Portable Heater - Electric,Heaters
+2020,12/15/2020,Queens,49,2,408,MD Residential Structure,Preliminary Investigation Only,Other
+2020,12/15/2020,Queens,47,14,401,MD Residential Structure,Preliminary Investigation Only,Other
+2020,12/15/2020,Queens,45,2,408,Vehicle,Incendiary - Combustible Material,Incendiary
+2020,12/16/2020,Queens,39,10,406,MD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,12/17/2020,Queens,54,13,405,Vehicle,Motors - Fossil Fuel Powered,Motors
+2020,12/18/2020,Queens,47,14,401,MD Residential Structure,Incense,Hot Objects
+2020,12/19/2020,Queens,49,1,414,MD Residential Structure,Incendiary,Incendiary
+2020,12/19/2020,Queens,50,12,413,PD Residential Structure,Other - Electrical,Electrical
+2020,12/21/2020,Queens,50,12,403,PD Residential Structure,Smoking (Cigarette/Cigar),Smoking
+2020,12/21/2020,Queens,50,9,402,MD Residential Structure,Incendiary - Reckless Use of Open Flame,Incendiary
+2020,12/21/2020,Queens,49,1,414,MD Residential Structure,Stove/Cooking - Other,Cooking Carelessness
+2020,12/21/2020,Queens,,4,410,Vehicle,Other,Other
+2020,12/22/2020,Queens,49,4,410,Outside Rubbish,Incendiary,Incendiary
+2020,12/22/2020,Queens,,3,403,Commercial Structure,Incendiary - Combustible Material,Incendiary
+2020,12/22/2020,Queens,49,3,415,Outside Rubbish,Incendiary,Incendiary
+2020,12/22/2020,Queens,,6,412,MD Residential Structure,Incense,Hot Objects
+2020,12/22/2020,Queens,,4,410,Commercial Structure,Incendiary - Combustible Material,Incendiary
+2020,12/22/2020,Queens,,7,409,MD Residential Structure,Clothes Dryer,Appliances
+2020,12/23/2020,Queens,28,5,404,No Fire,Other - No Fire,No Fire
+2020,12/24/2020,Queens,49,3,415,MD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,12/24/2020,Queens,50,12,403,MD Residential Structure,Candle,Open Flame
+2020,12/24/2020,Queens,49,1,414,Other,Incendiary - Combustible Material,Incendiary
+2020,12/24/2020,Queens,49,1,414,MD Residential Structure,Candle,Open Flame
+2020,12/25/2020,Queens,49,1,414,MD Residential Structure,Stove/Cooking - Stove,Cooking Carelessness
+2020,12/25/2020,Queens,,13,405,PD Residential Structure,Preliminary Investigation Only,Other
+2020,12/27/2020,Queens,49,1,414,Commercial Structure,Hot Embers,Hot Objects
+2020,12/27/2020,Queens,54,13,405,PD Residential Structure,Preliminary Investigation Only,Other
+2020,12/27/2020,Queens,49,3,415,Outside Rubbish,Incendiary,Incendiary
+2020,12/27/2020,Queens,54,13,405,PD Residential Structure,Hard Wire Outlet,Electrical
+2020,12/27/2020,Queens,,13,405,Burn Notification,Fireplace,Open Flame
+2020,12/27/2020,Queens,49,1,414,Outside Rubbish,Incendiary - Combustible Material,Incendiary
+2020,12/28/2020,Queens,46,3,415,MD Residential Structure,Feeder Cable,Electrical
+2020,12/28/2020,Queens,39,10,406,Brush,Incendiary,Incendiary
+2020,12/28/2020,Queens,46,4,410,MD Residential Structure,Torch - Legal Use of,Open Flame
+2020,12/28/2020,Queens,39,10,406,PD Residential Structure,Clothes Dryer - Natural Gas,Appliances
+2020,12/29/2020,Queens,46,2,408,MD Residential Structure,Lighting Fixture,Electrical
+2020,12/29/2020,Queens,53,11,411,MD Residential Structure,Extension Cord,Electrical
+2020,12/29/2020,Queens,49,3,415,Vehicle,Smoking (Cigarette/Cigar),Smoking
+2020,12/30/2020,Queens,50,12,403,MD Residential Structure,Candle,Open Flame
+2021,12/30/2020,Queens,49,1,414,Government Structure,Incendiary,Incendiary
+2021,12/30/2020,Queens,49,1,414,Government Structure,Incendiary,Incendiary
+2020,12/30/2020,Queens,50,12,413,MD Residential Structure,Extension Cord,Electrical
+2020,12/31/2020,Queens,49,3,415,MD Residential Structure,Incendiary - Combustible Material,Incendiary
+2020,12/31/2020,Queens,46,4,410,No Fire,Preliminary Investigation Only,Other
+2020,12/31/2020,Queens,49,3,415,PD Residential Structure,Stove - Electric,Appliances
